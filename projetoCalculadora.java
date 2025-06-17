@@ -1,4 +1,3 @@
-package secao11;
 
 import java.util.Scanner;
 
