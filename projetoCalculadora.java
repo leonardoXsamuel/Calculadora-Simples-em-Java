@@ -13,7 +13,7 @@ public class projetoCalculadora {
 
         int opcao = 0;
 
-        //Repete até que a opção digitada estejsa dentro do intervalo de 1 a 4
+        //Repete até que a opção digitada esteja dentro do intervalo de 1 a 4
         do {
         System.out.println("Selecione a opção desejada.");
         System.out.println("1)Multiplicação\n2)Divisão\n3)Soma\n4)Substração");
