@@ -41,7 +41,9 @@ public class projetoCalculadora {
 
         lerEnt.close();
 
-}  
+}
+
+    //criação e manutenção das funções
 
     public static double divisao (double a, double b) {
         double result = a/b;
